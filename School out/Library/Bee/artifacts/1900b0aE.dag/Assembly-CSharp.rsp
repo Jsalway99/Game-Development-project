@@ -437,7 +437,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/CamSwitcher.cs"
+"Assets/Enemy Damage.cs"
+"Assets/Enemy movment.cs"
 "Assets/Player controller.cs"
+"Assets/Player Health.cs"
 "Assets/tank contorls.cs"
 -langversion:9.0
 /deterministic
